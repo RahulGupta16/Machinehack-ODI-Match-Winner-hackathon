@@ -18,7 +18,6 @@ Target Variable: MatchWinner
 
 ![](odi.png)
 
+## Online CV: 0.64656
 
-
-
-
+## Local CV: 0.68
