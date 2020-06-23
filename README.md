@@ -16,7 +16,7 @@ Target Variable: MatchWinner
 
 ## Leaderboard rank: 39
 
-![](odi.png)
+![odi](https://user-images.githubusercontent.com/56091634/85437630-880e6780-b5a8-11ea-992d-feda1c6d74c5.png)
 
 ## Online CV: 0.64656
 
